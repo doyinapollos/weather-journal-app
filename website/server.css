@@ -1,0 +1,100 @@
+* {
+    margin: 0 auto;
+    padding: 0px;
+    border: 0px;
+}
+
+body {
+    margin: 0px;
+    padding: 0px;
+    background-color: white;
+}
+
+#header {
+    width: 100%;
+    height: 60px;
+    background-color: skyblue;
+}
+
+h2 {
+    text-align: center;
+    padding-top: 20px;
+}
+
+#section1 {
+    width: 100%;
+    height: 500px;
+    background-image: url(https://www.itprotoday.com/sites/itprotoday.com/files/styles/article_featured_retina/public/Cloud%20storage%20costs.jpg?itok=r3uS2bcX);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+#inputbtn-1 {
+    width: 300px;
+    height: 40px;
+    background-color: rgb(24, 102, 126);
+    margin-top: -20px;
+    border-radius: 40px;
+}
+
+#inputbtn-2 {
+    width: 300px;
+    height: 40px;
+    background-color: rgb(24, 102, 126);
+    border-radius: 40px;
+}
+
+#zip {
+    width: 150px;
+    height: 35px;
+    border-radius: 10px;
+}
+
+#feelings {
+    width: 150px;
+    height: 35px;
+    border-radius: 10px;
+}
+
+#generate {
+    width: 200px;
+    height: 30px;
+    background-color: rgb(18, 20, 20);
+    color: white;
+    border-radius: 50px;
+}
+
+#container {
+    width: 400px;
+    height: 200px;
+    background-color: rgba(9, 180, 223, 0.2);
+    display: flex;
+    flex-direction: column;
+    margin-top: 30px;
+    border-radius: 50px;
+}
+
+h4 {
+    margin-top: 10px;
+}
+
+#temp-div {
+    width: 100%;
+    display: flex;
+    margin-top: 50px;
+}
+
+#date {
+    margin-top: 30px;
+}
+
+.date {
+    margin-top: 15px;
+}
+
+#footer {
+    width: 100%;
+    height: 100px;
+    background-color: royalblue;
+}
